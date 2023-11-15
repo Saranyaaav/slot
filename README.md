@@ -37,7 +37,7 @@ Execute the program using runserver command.
 
 <center>
 
-<img src="/static/logo.png" height="100" width="540">
+<img src="C:\Users\admin\Downloads\logo.png" height="100" width="640">
 
 </center>
 
@@ -45,15 +45,15 @@ Execute the program using runserver command.
 
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
 
-<caption><b>SLOT TIME TABLE - DEEPIKA S (22008367)</b></caption>
+<caption><b>SLOT TIME TABLE - SARANYA V(23014052)</b></caption>
 
 <tr align="center">
 
-<th bgcolor="yellow">Day/Time</tho
+<th bgcolor="yellow">Day/Time</th>
 
 <th bgcolor="yellow">Monday</th>
 
-cth bgcolor="yellow">Tuesday</th>
+<th bgcolor="yellow">Tuesday</th>
 
 <th bgcolor="yellow">Wednesday</th>
 
